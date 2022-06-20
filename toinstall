@@ -1,0 +1,27 @@
+install i3
+install xorg
+run xorg with startx
+install firefox-esr
+apt-get install breeze-gtk-theme
+install cmatrix
+install neofetch
+install mc
+install nmtui
+install synaptic
+install i3lock
+install feh
+install gparted
+install baobab
+install gimp
+install tree
+install usb-creator-gtk
+install git
+install make
+install cmake
+install intltool
+install w3m
+install libreofice
+install xbacklight alsa-utils pulseaudio
+
+
+
