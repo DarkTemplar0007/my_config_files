@@ -1,0 +1,31 @@
+initialise git repository
+
+> git init
+
+Add file to git tree
+
+> git add <filename>
+
+Add all files in dir
+
+> git add -A
+
+
+Comit changes (save) 
+
+> git commit -m "Some nice commit coment"
+
+or 
+
+> git commit
+
+Configure remote origin (hosting)
+
+> git remote add origin git@github.com:<username>/<reponame>.git 
+
+Push changes to new host
+
+> git push origin master
+
+
+
