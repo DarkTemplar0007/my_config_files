@@ -1,0 +1,8 @@
+create help file with installed programs and shortcuts and general help
+fix broken caps switch
+replace intelli hub with blueman in system tray
+add inteli hub to c menu
+remember to install glibc-source
+remember to report broken links in LFS stale book
+install tmux and gnu screen
+implement power mode for i3
